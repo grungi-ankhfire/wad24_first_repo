@@ -1,0 +1,20 @@
+# Tous les fichiers nommés password.txt
+# password.txt
+
+# Le fichier password.txt du sous-dossier subfolder
+# subfolder/password.txt
+# folder2/subfolder/password.txt
+
+# Tous les dossiers nommés subfolder
+# subfolder/
+
+# Le dossier subfolder à la racine du repo
+# /subfolder/
+
+# Tous les fichiers finissant par .txt
+*.txt
+DO_NOT_COMMIT/
+
+
+
+
